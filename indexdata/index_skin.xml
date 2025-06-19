@@ -72,7 +72,7 @@
 					width="279" 
 					height="328" 
 					groupName="" 
-					url="floorplan/_108310721085.jpg" 
+					url="floorplan/plan.jpg"
 					title="project_floor_title"
 					heading="0">
 							<spot name="spotmap150" posX="0.5" posY="0.387959868" heading="0" desc="spotmap150_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano40" jsClick="spotmap150ActionSpotFloorPlan">
