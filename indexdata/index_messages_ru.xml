@@ -9,7 +9,7 @@
 
 
 
-  <data name="ru_pano40_title"><![CDATA[Улица середина]]></data>
+  <data name="ru_pano409_title"><![CDATA[Улица середина новое]]></data>
 
 
   <data name="ru_pano10_title"><![CDATA[1 кабинет 1 1 слева]]></data>
@@ -69,43 +69,58 @@
   <data name="ru_pano29_title"><![CDATA[1 коридор середина]]></data>
 
 
-  <data name="ru_pano30_title"><![CDATA[2 коридор 1 слева]]></data>
-
-
-  <data name="ru_pano31_title"><![CDATA[2 коридор 1 справа]]></data>
-
-
-  <data name="ru_pano32_title"><![CDATA[2 коридор 2 слева]]></data>
-
-
-  <data name="ru_pano33_title"><![CDATA[2 коридор 2 справа]]></data>
-
-
-  <data name="ru_pano34_title"><![CDATA[2 коридор середина]]></data>
-
-
-  <data name="ru_pano35_title"><![CDATA[3 коридор 1 слева]]></data>
-
-
-  <data name="ru_pano36_title"><![CDATA[3 коридор 1 справа]]></data>
-
-
-  <data name="ru_pano37_title"><![CDATA[3 коридор 2 слева]]></data>
-
-
-  <data name="ru_pano38_title"><![CDATA[3 коридор 2 справа]]></data>
-
-
-  <data name="ru_pano39_title"><![CDATA[3 коридор середина]]></data>
-
-
   <data name="ru_pano28_title"><![CDATA[1 коридор вход]]></data>
 
 
-  <data name="ru_pano41_title"><![CDATA[Улица слева]]></data>
+  <data name="ru_pano547_title"><![CDATA[Улица справа новое]]></data>
 
 
-  <data name="ru_pano42_title"><![CDATA[Улица справа]]></data>
+  <data name="ru_pano551_title"><![CDATA[Улица слева новое]]></data>
+
+
+  <data name="ru_pano851_title"><![CDATA[Коридор 2 середина]]></data>
+
+
+  <data name="ru_pano856_title"><![CDATA[Коридор 2 справа 1]]></data>
+
+
+  <data name="ru_pano860_title"><![CDATA[Коридор 2 справа 2]]></data>
+
+
+  <data name="ru_pano864_title"><![CDATA[Коридор 2 справа 3]]></data>
+
+
+  <data name="ru_pano868_title"><![CDATA[Коридор 2 слева 1]]></data>
+
+
+  <data name="ru_pano872_title"><![CDATA[Коридор 2 слева 3]]></data>
+
+
+  <data name="ru_pano876_title"><![CDATA[Коридор 2 слева 4]]></data>
+
+
+  <data name="ru_pano880_title"><![CDATA[Коридор 3 середина]]></data>
+
+
+  <data name="ru_pano884_title"><![CDATA[Коридор 3 слева 1]]></data>
+
+
+  <data name="ru_pano889_title"><![CDATA[Коридор 3 слева 2]]></data>
+
+
+  <data name="ru_pano894_title"><![CDATA[Коридор 3 слева 3]]></data>
+
+
+  <data name="ru_pano898_title"><![CDATA[Коридор 3 справа 1]]></data>
+
+
+  <data name="ru_pano902_title"><![CDATA[Коридор 3 справа 2]]></data>
+
+
+  <data name="ru_pano906_title"><![CDATA[Коридор 3 справа 3]]></data>
+
+
+  <data name="ru_pano913_title"><![CDATA[зал]]></data>
 
 
 
@@ -144,9 +159,16 @@
 	<data name="ru_spotmap180_tooltip"><![CDATA[]]></data>
 	<data name="ru_spotmap181_tooltip"><![CDATA[]]></data>
 	<data name="ru_spotmap182_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap919_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap920_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap921_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap922_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap924_tooltip"><![CDATA[]]></data>
 
 
   <data name="ru_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+  <data name="ru_buttontooltip"><![CDATA[]]></data>
+  <data name="ru_buttononclick102571openurlwebsiteurl"><![CDATA[https://www.avia-college-uu.ru/]]></data>
 
 
   <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
@@ -179,6 +201,21 @@
   <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
   <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
