@@ -102,7 +102,7 @@
 					width="279" 
 					height="328" 
 					groupName="" 
-					url="floorplan/_108310721085.jpg" 
+					url="floorplan/108310721085.jpg" 
 					title="project_floor_title"
 					heading="0">
 							<spot name="spotmap150" posX="0.5" posY="0.387959987" heading="0" desc="spotmap150_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano409" jsClick="spotmap150ActionSpotFloorPlan">
@@ -668,7 +668,7 @@
 
   <layer name="button"
          keep="true"
-         url="%FIRSTXML%/graphics/button/_1085108610871072.png"
+         url="%FIRSTXML%/graphics/button/1085108610871072.png"
          align="topleft"
          x="10"
          y="10"
