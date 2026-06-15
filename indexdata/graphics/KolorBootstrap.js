@@ -259,7 +259,8 @@ function eventKrpanoLoaded (isWebVr) {
 	
 	}else{
 	
-	
+	addKolorArea('description');
+
 addKolorArea('floorPlanArea');
 
 	}
@@ -276,6 +277,7 @@ function eventUnloadPlugins () {
 	
 deleteKolorFloorPlan('floorPlan');
 deleteKolorArea('floorPlanArea');
+deleteKolorArea('description');
 
 }
 

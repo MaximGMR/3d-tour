@@ -58,15 +58,18 @@
 
 
   <data name="ru_pano25_title"><![CDATA[1 коридор 3 слева]]></data>
+  <data name="ru_spotpolygon918_tooltip"><![CDATA[На второй этаж]]></data>
 
 
   <data name="ru_pano26_title"><![CDATA[1 коридор 3 справа]]></data>
 
 
   <data name="ru_pano27_title"><![CDATA[1 коридор 4 справа]]></data>
+  <data name="ru_spotpolygon912_tooltip"><![CDATA[На второй этаж]]></data>
 
 
   <data name="ru_pano29_title"><![CDATA[1 коридор середина]]></data>
+  <data name="ru_spotpolygon917_tooltip"><![CDATA[На второй этаж]]></data>
 
 
   <data name="ru_pano28_title"><![CDATA[1 коридор вход]]></data>
@@ -79,6 +82,8 @@
 
 
   <data name="ru_pano851_title"><![CDATA[Коридор 2 середина]]></data>
+  <data name="ru_spotpolygon853_tooltip"><![CDATA[На первый этаж]]></data>
+  <data name="ru_spotpolygon882_tooltip"><![CDATA[На третий этаж]]></data>
 
 
   <data name="ru_pano856_title"><![CDATA[Коридор 2 справа 1]]></data>
@@ -88,6 +93,8 @@
 
 
   <data name="ru_pano864_title"><![CDATA[Коридор 2 справа 3]]></data>
+  <data name="ru_spotpolygon867_tooltip"><![CDATA[На первый этаж]]></data>
+  <data name="ru_spotpolygon911_tooltip"><![CDATA[На третий этаж]]></data>
 
 
   <data name="ru_pano868_title"><![CDATA[Коридор 2 слева 1]]></data>
@@ -97,9 +104,12 @@
 
 
   <data name="ru_pano876_title"><![CDATA[Коридор 2 слева 4]]></data>
+  <data name="ru_spotpolygon879_tooltip"><![CDATA[На первый этаж]]></data>
+  <data name="ru_spotpolygon910_tooltip"><![CDATA[На третий этаж]]></data>
 
 
   <data name="ru_pano880_title"><![CDATA[Коридор 3 середина]]></data>
+  <data name="ru_spotpolygon883_tooltip"><![CDATA[На второй этаж]]></data>
 
 
   <data name="ru_pano884_title"><![CDATA[Коридор 3 слева 1]]></data>
@@ -109,6 +119,7 @@
 
 
   <data name="ru_pano894_title"><![CDATA[Коридор 3 слева 3]]></data>
+  <data name="ru_spotpolygon897_tooltip"><![CDATA[На второй этаж]]></data>
 
 
   <data name="ru_pano898_title"><![CDATA[Коридор 3 справа 1]]></data>
@@ -118,6 +129,7 @@
 
 
   <data name="ru_pano906_title"><![CDATA[Коридор 3 справа 3]]></data>
+  <data name="ru_spotpolygon909_tooltip"><![CDATA[На второй этаж]]></data>
 
 
   <data name="ru_pano913_title"><![CDATA[зал]]></data>
@@ -206,6 +218,7 @@
 
 
 
+  <data name="ru_spotpoint1214_description"><![CDATA[<span style="font-family: 'Work Sans', sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"><font size="4" color="#0b5394">Государственное бюджетное профессиональное образовательное учреждение «Улан-Удэнский авиационный техникум»</font></span>]]></data>
 
 
 

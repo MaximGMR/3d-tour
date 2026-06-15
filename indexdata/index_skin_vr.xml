@@ -59,9 +59,39 @@
 
 
 
+    
+  <!-- Spot Style - Default inform -->
+
+
+  <style name="IconDefaultinform"
+         url="%FIRSTXML%/spots/hotspot_information_user_defaultpoint01.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDefaultinform"
+         onout="onoutIconDefaultinform"
+
+
+         />
+  <action name="onhoverIconDefaultinform">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDefaultinform">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
   <!-- FLOORPLAN -->
   <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
   <action name="showFloorplan">set(tour_displayfloorplan, true); events.dispatch(onshowtourfloorplan);</action>
+
+
+  <!-- Tour Information -->
+  <action name="hideTourInfo">set(tour_displayinfo, false);events.dispatch(onhidetourinfo);</action>
+  <action name="showTourInfo">set(tour_displayinfo, true); events.dispatch(onshowtourinfo);</action>
 
 
 </krpano>
